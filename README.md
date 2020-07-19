@@ -6,7 +6,7 @@
 
 > Undergraduate student @ University of Dhaka <br/>
 > Software engineer (working part time) <br/>
-> OpenSource enthusiast, Web development enthusuast
+> OpenSource enthusiast, Web development enthusiast
 
 I love to develop web applications with Python and JS. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an INTJ-T. Outside study or work, I love contributing to open-source, making system designs. I am trying to build a local open-source community named [FossNation](https://www.facebook.com/groups/FOSSNation).
 
