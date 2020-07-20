@@ -30,7 +30,7 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
   },
   "database": ["PostgreSQL", "SQLite"],
   "misc": ["Docker","Celery", "RabbitMQ", "Firebase"],
-  "tools": ["VS Code","Android Studio"],
+  "tools": ["VS Code","Android Studio"]
 }
 ```
 
