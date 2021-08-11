@@ -24,14 +24,15 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
 
 ```json
 {
-  "languages": ["Python", "Javascript", "SQL", "Java"],
+  "languages": ["Python", "C", "C++", "Java", "Bash"],
   "frameworks/libraries": {
-    "backend": ["Flask", "Django", "SQLAlchemy", "Node.Js"],
-    "frontend": ["React.js"],
+    "backend": ["Flask", "Django", "Node.Js"],
+    "mobile": ["Android", "Firebase"]
     "others": ["NumPy", "Pandas", "Matplotlib", "Nltk"]
   },
-  "database": ["PostgreSQL", "SQLite"],
-  "misc": ["Docker","Celery", "RabbitMQ", "Firebase"],
+  "database": ["SQL", "SQLAlchemy", "PostgreSQL", "Django ORM"],
+  "dev-ops": ["Heroku", "Apache2 HTTP server", "Docker", "Celery", "RabbitMQ"],
+  "others": ["Data Structures", "OOP", "Git"]
   "tools": ["VS Code","Android Studio"]
 }
 ```
