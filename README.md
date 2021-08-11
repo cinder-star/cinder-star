@@ -27,12 +27,12 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
   "languages": ["Python", "C", "C++", "Java", "Bash"],
   "frameworks/libraries": {
     "backend": ["Flask", "Django", "Node.Js"],
-    "mobile": ["Android", "Firebase"]
+    "mobile": ["Android", "Firebase"],
     "others": ["NumPy", "Pandas", "Matplotlib", "Nltk"]
   },
   "database": ["SQL", "SQLAlchemy", "PostgreSQL", "Django ORM"],
   "dev-ops": ["Heroku", "Apache2 HTTP server", "Docker", "Celery", "RabbitMQ"],
-  "others": ["Data Structures", "OOP", "Git"]
+  "others": ["Data Structures", "OOP", "Git"],
   "tools": ["VS Code","Android Studio"]
 }
 ```
