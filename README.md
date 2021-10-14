@@ -37,4 +37,10 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
 }
 ```
 
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=react&background=0d1117" width="55%" />
+   
+   <img src="https://activity-graph.herokuapp.com/graph?username=pknandi&theme=react-dark" width="100%"/>
+</p>
+
 #### Happy coding!
