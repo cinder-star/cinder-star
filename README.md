@@ -23,14 +23,14 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
 
 ```json
 {
-  "languages": ["Python", "C", "C++", "Java", "Bash"],
+  "languages": ["Python", "C++", "JavaScript", "Bash"],
   "frameworks/libraries": {
-    "backend": ["Flask", "Django", "Node.Js", "Express"],
+    "backend": ["Flask", "Django", "Node.Js", "Express", "FastApi"],
     "mobile": ["Android", "Firebase"],
     "others": ["NumPy", "Pandas", "Matplotlib", "Nltk"]
   },
   "database": ["SQL", "SQLAlchemy", "PostgreSQL", "Django ORM"],
-  "dev-ops": ["Heroku", "Apache2 HTTP server", "Docker", "Celery", "RabbitMQ"],
+  "dev-ops": ["Heroku", "Nginx", "Docker", "Celery", "RabbitMQ"],
   "others": ["Data Structures", "OOP", "Git"],
   "tools": ["VS Code","Android Studio"]
 }
