@@ -25,7 +25,7 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
 {
   "languages": ["Python", "C++", "JavaScript", "Bash"],
   "frameworks/libraries": {
-    "backend": ["Flask", "Django", "Node.Js", "Express", "FastApi"],
+    "backend": ["Flask", "Django", "Django-Rest-Framework", "Node.Js", "Express", "FastApi"],
     "mobile": ["Android", "Firebase"],
     "others": ["NumPy", "Pandas", "Matplotlib", "Nltk"]
   },
