@@ -14,7 +14,7 @@ I love to develop web applications with Python and JS. Currently pursuing Comput
 ### Things you should know
 
 - 🔭 <b>Currently working on:</b> Python3
-- 🌱 <b>Getting better at:</b> Python, Javascript
+- 🌱 <b>Getting better at:</b> Web3
 - 🤔 <b>Exploring:</b> Web Architechtures
 - ⚗️ <b>Experimenting on:</b> Scripts
 - 💬 <b>Ask me about:</b> Python, Anime, Manga
