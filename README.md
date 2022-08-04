@@ -7,7 +7,7 @@
 > Software engineer <br/>
 > OpenSource enthusiast, Web development enthusiast
 
-I love to develop web applications with Python and JS. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an INTJ-T. Outside study or work, I love contributing to open-source, learning about system designs. I am trying to build a local open-source community named [FossNation](https://www.facebook.com/groups/FOSSNation).
+I love to develop web applications with Python and JS. Currently working for a Silicon Valley based company, Universal Machine. I'm an INTJ-T. Outside study or work, I love contributing to open-source, learning about system designs. I am trying to build a local open-source community named [FossNation](https://www.facebook.com/groups/FOSSNation).
 
 ### Things you should know
 
