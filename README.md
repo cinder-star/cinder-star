@@ -39,5 +39,6 @@ I love to develop web applications with Python and JS. Currently working for a S
 
    <img src="https://activity-graph.herokuapp.com/graph?username=cinder-star&theme=react-dark" width="100%"/>
 </p>
-
-#### Happy coding
+<p align="center">
+<a href="https://app.daily.dev/Sedative"><img align="center" src="https://api.daily.dev/devcards/7a2b9aa625ef46e3b080cd0d24e74b8c.png?r=hd3" width="400" alt="Sihan Tawsik's Dev Card"/></a>
+</p>
